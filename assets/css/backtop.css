@@ -1,0 +1,28 @@
+/* Back To Top */
+.backtotop{
+display:none
+}
+.backtotop
+{
+position:fixed;
+bottom:50px;
+right:0;
+cursor:
+pointer;
+font-weight:bold;
+box-shadow:-5px 5px rgba(0,0,0,.1);
+padding:10px;
+background-color:#fff;
+opacity:.6
+}
+.backtotop span
+{
+background-image:url(https://2.bp.blogspot.com/-QLZM-aUhB6w/VyL3AeOfEfI/AAAAAAAADBU/g6Ff-NvsU_c3ZZn3LM0luDDCRnQjzEK9wCLcB/s1600/icon.png);
+background-position:0 -272px;
+background-repeat:no-repeat;
+height:25px;width:22px;
+display:inline-block;
+vertical-align:middle;
+margin-right:5px 
+}
+.backtotop:hover{opacity:1}
